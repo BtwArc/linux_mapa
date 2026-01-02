@@ -11,7 +11,7 @@ V příloze projektu jsou k dispozici soubory mapy ve formátech:
 
 ## Struktura složek
 
-- **mapa_shape** – obsahuje pouze tvary mapy bez doplňujících dat  
+- **map_shape** – obsahuje pouze tvary mapy bez doplňujících dat  
 - **final_map** – obsahuje finální verze mapy připravené k tisku  
 - **source_maps** – obsahuje zdrojové mapy, ze kterých jsem vycházel nebo které mě inspirovaly  
 
