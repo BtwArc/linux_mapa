@@ -7,13 +7,14 @@ V tomto projektu jsem vytvořil mapu, na které je možné vidět **přibližný
 V příloze projektu jsou k dispozici soubory mapy ve formátech:  
 - `.af` – projekt Affinity  
 - `.png`, `.jpg`, `.svg` – grafické verze mapy  
+- `.xlsx` – zaznamenaná data z webu gs.statcounter.com v Excel souboru  
 - Fotografie původní mapy, ze které jsem při tvorbě čerpal  
 
 ## Struktura složek
 
 - **map_shape** – obsahuje pouze tvary mapy bez doplňujících dat  
 - **final_map** – obsahuje finální verze mapy připravené k tisku  
-- **source_maps** – obsahuje zdrojové mapy, ze kterých jsem vycházel nebo které mě inspirovaly  
+- **source_files** – obsahuje zdrojové mapy, ze kterých jsem vycházel nebo které mě inspirovaly  
 
 ## Autor
 
