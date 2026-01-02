@@ -6,5 +6,7 @@ V příloze projektu jsou k dispozici soubory mapy ve formátech .af, .png, .jpg
 Pro lepší přehlednost jsou soubory rozděleny do složek:
 
 mapa_shape – obsahuje pouze tvary mapy bez doplňujících dat;
+
 final_map – obsahuje finální verze mapy připravené k tisku;
+
 source_maps – obsahuje zdrojové mapy, ze kterých jsem vycházel nebo které mě inspirovaly.
